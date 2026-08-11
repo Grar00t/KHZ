@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Khz.Cli/Khz.Cli.csproj" />
+    <Project Path="src/Khz.Language/Khz.Language.csproj" />
+    <Project Path="src/Khz.Runtime/Khz.Runtime.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Khz.Tests/Khz.Tests.csproj" />
+  </Folder>
+</Solution>

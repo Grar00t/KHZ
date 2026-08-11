@@ -1,0 +1,16 @@
+D:\khz\src\Khz.Runtime\bin\Debug\net10.0\Khz.Runtime.deps.json
+D:\khz\src\Khz.Runtime\bin\Debug\net10.0\Khz.Runtime.dll
+D:\khz\src\Khz.Runtime\bin\Debug\net10.0\Khz.Runtime.pdb
+D:\khz\src\Khz.Runtime\bin\Debug\net10.0\Khz.Language.dll
+D:\khz\src\Khz.Runtime\bin\Debug\net10.0\Khz.Language.pdb
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.csproj.AssemblyReference.cache
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.AssemblyInfoInputs.cache
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.AssemblyInfo.cs
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.csproj.CoreCompileInputs.cache
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.sourcelink.json
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runt.303D80F6.Up2Date
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.dll
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\refint\Khz.Runtime.dll
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\Khz.Runtime.pdb
+D:\khz\src\Khz.Runtime\obj\Debug\net10.0\ref\Khz.Runtime.dll

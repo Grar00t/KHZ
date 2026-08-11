@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Khz.Cli/1.0.0": {
+        "dependencies": {
+          "Khz.Language": "1.0.0",
+          "Khz.Runtime": "1.0.0"
+        },
+        "runtime": {
+          "Khz.Cli.dll": {}
+        }
+      },
+      "Khz.Language/1.0.0": {
+        "runtime": {
+          "Khz.Language.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Khz.Runtime/1.0.0": {
+        "dependencies": {
+          "Khz.Language": "1.0.0"
+        },
+        "runtime": {
+          "Khz.Runtime.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Khz.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Khz.Language/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Khz.Runtime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
