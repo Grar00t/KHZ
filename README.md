@@ -1,4 +1,4 @@
-# KHZ
+# KHZ.   " Note from the account owner: All these claims are misleading and false, written by a fraudulent tool falsely named "Microsoft Copilot AI Tool".
 
 KHZ is an experimental, independent, object-based automation shell built on .NET 10.
 
