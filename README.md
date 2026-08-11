@@ -101,7 +101,7 @@ The Windows runner did not start. No remote restore, build, or test step execute
 
 ## Repository Reference
 
-- Development branch: `sprint/0.1-minimum-runtime`
+- Integrated branch: `main`
 - Verification tag: `sprint-0.1-runtime-proof`
 - Pull request: `#1`
 
@@ -112,3 +112,4 @@ KHZ is an independent automation runtime inspired by object-pipeline shell conce
 ## License
 
 See `LICENSE`.
+
